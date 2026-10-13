@@ -1,0 +1,17 @@
+[project]
+name = "lol-player-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "MohamedAmine Azirgui", email = "mohamade.amine12345@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
+
+[project.scripts]
+lol-player-mcp = "lol_player_mcp:main"
+
+[build-system]
+requires = ["uv_build>=0.12.19,<0.13.0"]
+build-backend = "uv_build"
