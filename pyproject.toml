@@ -3,6 +3,7 @@ name = "lol-player-mcp"
 version = "0.1.0"
 description = "A MCP server for League of Legends, built with Python, FastMCP, and Riot Games API."
 readme = "README.md"
+license = "MIT"
 authors = [
     { name = "MohamedAmine Azirgui", email = "mohamed.a.azirgui@gmail.com" }
 ]
